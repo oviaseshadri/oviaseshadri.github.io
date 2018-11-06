@@ -13,20 +13,38 @@
     
     
     <item>
-      <title>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</title>
-      <link>https://anirbanlaha.github.io/publication/naacl-2018-short/</link>
-      <pubDate>Tue, 06 Nov 2018 23:09:44 +0530</pubDate>
+      <title>Simplification 2018</title>
+      <link>https://anirbanlaha.github.io/publication/simplification-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 23:22:50 +0530</pubDate>
       
-      <guid>https://anirbanlaha.github.io/publication/naacl-2018-short/</guid>
+      <guid>https://anirbanlaha.github.io/publication/simplification-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</title>
-      <link>https://anirbanlaha.github.io/publication/naacl-2018-long/</link>
-      <pubDate>Tue, 06 Nov 2018 23:09:33 +0530</pubDate>
+      <title>Structscribe 2018</title>
+      <link>https://anirbanlaha.github.io/publication/structscribe-2018/</link>
+      <pubDate>Tue, 06 Nov 2018 23:22:41 +0530</pubDate>
       
-      <guid>https://anirbanlaha.github.io/publication/naacl-2018-long/</guid>
+      <guid>https://anirbanlaha.github.io/publication/structscribe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interspeech 2017</title>
+      <link>https://anirbanlaha.github.io/publication/interspeech-2017/</link>
+      <pubDate>Tue, 06 Nov 2018 23:22:16 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/interspeech-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coling 2016</title>
+      <link>https://anirbanlaha.github.io/publication/coling-2016/</link>
+      <pubDate>Tue, 06 Nov 2018 23:22:00 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/coling-2016/</guid>
       <description></description>
     </item>
     
@@ -36,6 +54,33 @@
       <pubDate>Tue, 06 Nov 2018 22:51:04 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/publication/nips-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-long/</link>
+      <pubDate>Mon, 04 Jun 2018 23:09:33 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-short/</link>
+      <pubDate>Sun, 03 Jun 2018 23:09:44 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity driven Attention Model for Query-based Abstractive Summarization</title>
+      <link>https://anirbanlaha.github.io/publication/acl-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 23:22:09 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/acl-2017/</guid>
       <description></description>
     </item>
     
