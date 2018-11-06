@@ -63,7 +63,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/publications_selected/</guid>
-      <description>On Controllable Sparse Alternatives to Softmax Converting an n-dimensional vector to a probability distribution over n objects is a commonly used component in many machine learning tasks like multiclass classification, multilabel classification, attention mechanisms etc. For this, several probability mapping functions have been proposed and employed in literature such as softmax, sum-normalization, spherical softmax, and sparsemax, but there is very little understanding in terms how they relate with each other.</description>
+      <description>On Controllable Sparse Alternatives to Softmax Neural Information Processing Systems (NIPS), 2018.</description>
     </item>
     
     <item>
