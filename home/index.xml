@@ -36,7 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/about/</guid>
-      <description>Biography Anirban Laha is associated with the AI Tech group at IBM Research AI - India. He is working in applications of machine learning/deep learning in natural language processing and computer vision. Since joining IBM in 2015, he has been involved in mainly the following projects: (1) Natural Language Generation, (2) Machine Learning for Creativity, (3) IBM Debating Technologies.</description>
+      <description> Biography Anirban Laha is associated with the AI Tech group at IBM Research AI - India. He is working in applications of machine learning/deep learning in natural language processing and computer vision. Since joining IBM in 2015, he has been involved in mainly the following projects: (1) Natural Language Generation, (2) Machine Learning for Creativity, (3) IBM Debating Technologies. </description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/publications_selected/</guid>
-      <description></description>
+      <description>On Controllable Sparse Alternatives to Softmax Converting an n-dimensional vector to a probability distribution over n objects is a commonly used component in many machine learning tasks like multiclass classification, multilabel classification, attention mechanisms etc. For this, several probability mapping functions have been proposed and employed in literature such as softmax, sum-normalization, spherical softmax, and sparsemax, but there is very little understanding in terms how they relate with each other.</description>
     </item>
     
     <item>
