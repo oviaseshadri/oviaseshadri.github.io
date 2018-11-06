@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "authors": [
+      "Anirban Laha",
+      "Saneem Ahmed CG",
+      "Priyanka Agrawal",
+      "Mitesh M. Khapra",
+      "Karthik Sankaranarayanan",
+      "Harish G. Ramaswamy"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1541524864,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541524864,
+    "objectID": "71e6862aab14f53704271c12dad62a21",
+    "permalink": "https://anirbanlaha.github.io/publication/nips-2018/",
+    "publishdate": "2018-11-06T22:51:04+05:30",
+    "relpermalink": "/publication/nips-2018/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "On Controllable Sparse Alternatives to Softmax",
+    "type": "publication"
+  }
+]
