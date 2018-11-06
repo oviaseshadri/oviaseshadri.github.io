@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-short/</link>
+      <pubDate>Tue, 06 Nov 2018 23:09:44 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization</title>
+      <link>https://anirbanlaha.github.io/publication/naacl-2018-long/</link>
+      <pubDate>Tue, 06 Nov 2018 23:09:33 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/naacl-2018-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On Controllable Sparse Alternatives to Softmax</title>
       <link>https://anirbanlaha.github.io/publication/nips-2018/</link>
       <pubDate>Tue, 06 Nov 2018 22:51:04 +0530</pubDate>

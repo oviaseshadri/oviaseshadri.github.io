@@ -1,6 +1,53 @@
 [
   {
     "authors": [
+      ""
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1541525984,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541525984,
+    "objectID": "856fb3ba4336f28121a0c292bd629742",
+    "permalink": "https://anirbanlaha.github.io/publication/naacl-2018-short/",
+    "publishdate": "2018-11-06T23:09:44+05:30",
+    "relpermalink": "/publication/naacl-2018-short/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Preksha Nema",
+      "Shreyas Shetty M.",
+      "Parag Jain",
+      "Anirban Laha",
+      "Karthik Sankaranarayanan",
+      "Mitesh M. Khapra"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1541525973,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541525973,
+    "objectID": "86a97411637d6739b8d8eac25f2098c7",
+    "permalink": "https://anirbanlaha.github.io/publication/naacl-2018-long/",
+    "publishdate": "2018-11-06T23:09:33+05:30",
+    "relpermalink": "/publication/naacl-2018-long/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Generating Descriptions from Structured Data Using a Bifocal Attention Mechanism and Gated Orthogonalization",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Anirban Laha",
       "Saneem A. Chemmengath",
       "Priyanka Agrawal",
