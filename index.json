@@ -43,48 +43,6 @@
   },
   {
     "authors": [
-      ""
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1541526736,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1541526736,
-    "objectID": "b6abe899128fda086d9e273b3b3c12ae",
-    "permalink": "https://anirbanlaha.github.io/publication/interspeech-2017/",
-    "publishdate": "2018-11-06T23:22:16+05:30",
-    "relpermalink": "/publication/interspeech-2017/",
-    "section": "publication",
-    "summary": "",
-    "tags": [],
-    "title": "Interspeech 2017",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      ""
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1541526720,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1541526720,
-    "objectID": "4dd942c807efb0c7270da7a493d97de7",
-    "permalink": "https://anirbanlaha.github.io/publication/coling-2016/",
-    "publishdate": "2018-11-06T23:22:00+05:30",
-    "relpermalink": "/publication/coling-2016/",
-    "section": "publication",
-    "summary": "",
-    "tags": [],
-    "title": "Coling 2016",
-    "type": "publication"
-  },
-  {
-    "authors": [
       "Anirban Laha",
       "Saneem A. Chemmengath",
       "Priyanka Agrawal",
@@ -163,6 +121,32 @@
   },
   {
     "authors": [
+      "Vardaan Pahuja",
+      "Anirban Laha",
+      "Shachar Mirkin",
+      "Vikas C. Raykar",
+      "Lili Kotlerman",
+      "Guy Lev"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1503251536,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1503251536,
+    "objectID": "b6abe899128fda086d9e273b3b3c12ae",
+    "permalink": "https://anirbanlaha.github.io/publication/interspeech-2017/",
+    "publishdate": "2017-08-20T23:22:16+05:30",
+    "relpermalink": "/publication/interspeech-2017/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Joint Learning of Correlated Sequence Labelling Tasks Using Bidirectional Recurrent Neural Networks",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "Preksha Nema",
       "Mitesh M. Khapra",
       "Anirban Laha",
@@ -183,6 +167,28 @@
     "summary": "",
     "tags": [],
     "title": "Diversity driven Attention Model for Query-based Abstractive Summarization",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Anirban Laha",
+      "Vikas C. Raykar"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1481046720,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1481046720,
+    "objectID": "4dd942c807efb0c7270da7a493d97de7",
+    "permalink": "https://anirbanlaha.github.io/publication/coling-2016/",
+    "publishdate": "2016-12-06T23:22:00+05:30",
+    "relpermalink": "/publication/coling-2016/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "An Empirical Evaluation of various Deep Learning Architectures for Bi-Sequence Classification Tasks",
     "type": "publication"
   }
 ]

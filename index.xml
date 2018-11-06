@@ -29,24 +29,6 @@
     </item>
     
     <item>
-      <title>Interspeech 2017</title>
-      <link>https://anirbanlaha.github.io/publication/interspeech-2017/</link>
-      <pubDate>Tue, 06 Nov 2018 23:22:16 +0530</pubDate>
-      
-      <guid>https://anirbanlaha.github.io/publication/interspeech-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coling 2016</title>
-      <link>https://anirbanlaha.github.io/publication/coling-2016/</link>
-      <pubDate>Tue, 06 Nov 2018 23:22:00 +0530</pubDate>
-      
-      <guid>https://anirbanlaha.github.io/publication/coling-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On Controllable Sparse Alternatives to Softmax</title>
       <link>https://anirbanlaha.github.io/publication/nips-2018/</link>
       <pubDate>Tue, 06 Nov 2018 22:51:04 +0530</pubDate>
@@ -74,11 +56,29 @@
     </item>
     
     <item>
+      <title>Joint Learning of Correlated Sequence Labelling Tasks Using Bidirectional Recurrent Neural Networks</title>
+      <link>https://anirbanlaha.github.io/publication/interspeech-2017/</link>
+      <pubDate>Sun, 20 Aug 2017 23:22:16 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/interspeech-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diversity driven Attention Model for Query-based Abstractive Summarization</title>
       <link>https://anirbanlaha.github.io/publication/acl-2017/</link>
       <pubDate>Tue, 01 Aug 2017 23:22:09 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/publication/acl-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Evaluation of various Deep Learning Architectures for Bi-Sequence Classification Tasks</title>
+      <link>https://anirbanlaha.github.io/publication/coling-2016/</link>
+      <pubDate>Tue, 06 Dec 2016 23:22:00 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/coling-2016/</guid>
       <description></description>
     </item>
     
