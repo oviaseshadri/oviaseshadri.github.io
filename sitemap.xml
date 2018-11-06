@@ -4,22 +4,6 @@
     
     <url>
     
-      <loc>https://anirbanlaha.github.io/publication/simplification-2018/</loc>
-      <lastmod>2018-11-06T23:22:50+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://anirbanlaha.github.io/publication/structscribe-2018/</loc>
-      <lastmod>2018-11-06T23:22:41+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://anirbanlaha.github.io/publication/nips-2018/</loc>
       <lastmod>2018-11-06T22:51:04+05:30</lastmod>
     </url>
@@ -46,6 +30,22 @@
     
       <loc>https://anirbanlaha.github.io/publication/interspeech-2017/</loc>
       <lastmod>2017-08-20T23:22:16+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/</loc>
+      <lastmod>2017-08-15T00:01:02+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/</loc>
+      <lastmod>2017-08-14T00:00:52+05:30</lastmod>
     </url>
     
   
@@ -92,8 +92,8 @@
     
     <url>
     
-      <loc>https://anirbanlaha.github.io/publication_types/0/</loc>
-      <lastmod>2018-11-06T23:22:50+05:30</lastmod>
+      <loc>https://anirbanlaha.github.io/publication_types/1/</loc>
+      <lastmod>2018-11-06T22:51:04+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -101,8 +101,8 @@
     
     <url>
     
-      <loc>https://anirbanlaha.github.io/publication_types/1/</loc>
-      <lastmod>2018-11-06T22:51:04+05:30</lastmod>
+      <loc>https://anirbanlaha.github.io/publication_types/7/</loc>
+      <lastmod>2017-08-15T00:01:02+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,7 +128,7 @@
     <url>
     
       <loc>https://anirbanlaha.github.io/publication_types/</loc>
-      <lastmod>2018-11-06T23:22:50+05:30</lastmod>
+      <lastmod>2018-11-06T22:51:04+05:30</lastmod>
       <priority>0</priority>
     </url>
     

@@ -11,24 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Simplification 2018</title>
-      <link>https://anirbanlaha.github.io/publication/simplification-2018/</link>
-      <pubDate>Tue, 06 Nov 2018 23:22:50 +0530</pubDate>
-      
-      <guid>https://anirbanlaha.github.io/publication/simplification-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structscribe 2018</title>
-      <link>https://anirbanlaha.github.io/publication/structscribe-2018/</link>
-      <pubDate>Tue, 06 Nov 2018 23:22:41 +0530</pubDate>
-      
-      <guid>https://anirbanlaha.github.io/publication/structscribe-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On Controllable Sparse Alternatives to Softmax</title>
       <link>https://anirbanlaha.github.io/publication/nips-2018/</link>
       <pubDate>Tue, 06 Nov 2018 22:51:04 +0530</pubDate>
@@ -61,6 +43,24 @@
       <pubDate>Sun, 20 Aug 2017 23:22:16 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/publication/interspeech-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story Generation from Sequence of Independent Short Descriptions</title>
+      <link>https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/</link>
+      <pubDate>Tue, 15 Aug 2017 00:01:02 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Approach for Evaluating Creative Artifacts</title>
+      <link>https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:52 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/</guid>
       <description></description>
     </item>
     

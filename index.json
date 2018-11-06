@@ -1,48 +1,6 @@
 [
   {
     "authors": [
-      ""
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1541526770,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1541526770,
-    "objectID": "97a214182251beeafef9cd223cb41927",
-    "permalink": "https://anirbanlaha.github.io/publication/simplification-2018/",
-    "publishdate": "2018-11-06T23:22:50+05:30",
-    "relpermalink": "/publication/simplification-2018/",
-    "section": "publication",
-    "summary": "",
-    "tags": [],
-    "title": "Simplification 2018",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      ""
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1541526761,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1541526761,
-    "objectID": "591a886ab00b70ba28486f3f59ce6004",
-    "permalink": "https://anirbanlaha.github.io/publication/structscribe-2018/",
-    "publishdate": "2018-11-06T23:22:41+05:30",
-    "relpermalink": "/publication/structscribe-2018/",
-    "section": "publication",
-    "summary": "",
-    "tags": [],
-    "title": "Structscribe 2018",
-    "type": "publication"
-  },
-  {
-    "authors": [
       "Anirban Laha",
       "Saneem A. Chemmengath",
       "Priyanka Agrawal",
@@ -143,6 +101,56 @@
     "summary": "",
     "tags": [],
     "title": "Joint Learning of Correlated Sequence Labelling Tasks Using Bidirectional Recurrent Neural Networks",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Parag Jain",
+      "Priyanka Agrawal",
+      "Abhijit Mishra",
+      "Mohak Sukhwani",
+      "Anirban Laha",
+      "Karthik Sankaranarayanan"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1502735462,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1502735462,
+    "objectID": "198187e29c40951a9e430c99153e842f",
+    "permalink": "https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/",
+    "publishdate": "2017-08-15T00:01:02+05:30",
+    "relpermalink": "/publication/ml4creativity-2017-gen/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Story Generation from Sequence of Independent Short Descriptions",
+    "type": "publication"
+  },
+  {
+    "authors": [
+      "Disha Shrivastava",
+      "Saneem Ahmed CG",
+      "Anirban Laha",
+      "Karthik Sankaranarayanan"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1502649052,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1502649052,
+    "objectID": "5b49ce36d55dcdf84781f49e9d4ebc3f",
+    "permalink": "https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/",
+    "publishdate": "2017-08-14T00:00:52+05:30",
+    "relpermalink": "/publication/ml4creativity-2017-metrices/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "A Machine Learning Approach for Evaluating Creative Artifacts",
     "type": "publication"
   },
   {
