@@ -1,12 +1,12 @@
 [
   {
     "authors": [
-      "*Anirban Laha*",
-      "*Saneem A. Chemmengath*",
+      "***Anirban Laha***",
+      "*Saneem Ahmed CG*",
       "*Priyanka Agrawal*",
-      "*Mitesh M. Khapra*",
+      "*Mitesh Khapra*",
       "*Karthik Sankaranarayanan*",
-      "*Harish G. Ramaswamy*"
+      "*Harish Ramaswamy*"
     ],
     "categories": null,
     "content": "",
@@ -30,7 +30,7 @@
       "*Preksha Nema*",
       "*Shreyas Shetty M.*",
       "*Parag Jain*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Karthik Sankaranarayanan*",
       "*Mitesh M. Khapra*"
     ],
@@ -54,7 +54,7 @@
   {
     "authors": [
       "*Parag Jain*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Karthik Sankaranarayanan*",
       "*Preksha Nema*",
       "*Mitesh M. Khapra*",
@@ -80,7 +80,7 @@
   {
     "authors": [
       "*Vardaan Pahuja*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Shachar Mirkin*",
       "*Vikas C. Raykar*",
       "*Lili Kotlerman*",
@@ -109,7 +109,7 @@
       "*Priyanka Agrawal*",
       "*Abhijit Mishra*",
       "*Mohak Sukhwani*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Karthik Sankaranarayanan*"
     ],
     "categories": null,
@@ -133,7 +133,7 @@
     "authors": [
       "*Disha Shrivastava*",
       "*Saneem Ahmed CG*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Karthik Sankaranarayanan*"
     ],
     "categories": null,
@@ -157,7 +157,7 @@
     "authors": [
       "*Preksha Nema*",
       "*Mitesh M. Khapra*",
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Balaraman Ravindran* "
     ],
     "categories": null,
@@ -179,7 +179,7 @@
   },
   {
     "authors": [
-      "*Anirban Laha*",
+      "***Anirban Laha***",
       "*Vikas C. Raykar*"
     ],
     "categories": null,
