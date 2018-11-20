@@ -79,6 +79,30 @@
   },
   {
     "authors": [
+      "*Preksha Nema*",
+      "*Mitesh M. Khapra*",
+      "***Anirban Laha***",
+      "*Balaraman Ravindran* "
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1512150729,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1512150729,
+    "objectID": "f10d53dc6f4432fdde1b8addb6f7dc9a",
+    "permalink": "https://anirbanlaha.github.io/publication/acl-2017/",
+    "publishdate": "2017-12-01T23:22:09+05:30",
+    "relpermalink": "/publication/acl-2017/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Diversity driven Attention Model for Query-based Abstractive Summarization",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "*Vardaan Pahuja*",
       "***Anirban Laha***",
       "*Shachar Mirkin*",
@@ -151,30 +175,6 @@
     "summary": "",
     "tags": [],
     "title": "A Machine Learning Approach for Evaluating Creative Artifacts",
-    "type": "publication"
-  },
-  {
-    "authors": [
-      "*Preksha Nema*",
-      "*Mitesh M. Khapra*",
-      "***Anirban Laha***",
-      "*Balaraman Ravindran* "
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1501609929,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1501609929,
-    "objectID": "f10d53dc6f4432fdde1b8addb6f7dc9a",
-    "permalink": "https://anirbanlaha.github.io/publication/acl-2017/",
-    "publishdate": "2017-08-01T23:22:09+05:30",
-    "relpermalink": "/publication/acl-2017/",
-    "section": "publication",
-    "summary": "",
-    "tags": [],
-    "title": "Diversity driven Attention Model for Query-based Abstractive Summarization",
     "type": "publication"
   },
   {
