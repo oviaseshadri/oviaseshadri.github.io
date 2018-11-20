@@ -290,7 +290,7 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
@@ -422,13 +422,13 @@
 
     
 
-<h1 id="biography">Biography</h1>
+<h2 id="hello-bonjour-hola-namaste"><strong>Hello</strong> | <strong>Bonjour</strong> | <strong>Hola</strong> | <strong>Namaste</strong></h2>
 
-<p>Anirban Laha is associated with the AI Tech group at IBM Research AI - India. He is working in applications of machine learning/deep learning in natural language processing and generation. Since joining IBM in 2015, he has been involved in mainly the following projects: (1) Natural Language Generation, (2) Machine Learning for Creativity, (3) IBM Debating Technologies.</p>
+<p><span style="font-size: 0.9em">I am currently associated with the AI Tech group at IBM Research AI - India. At IBM, I have been fortunate to be mentored by extremely learned and passionate researchers like <a href="http://researcher.ibm.com/researcher/view.php?person=in-viraykar" target="_blank">Vikas Raykar</a>, <a href="https://www.cse.iitm.ac.in/~miteshk/" target="_blank">Mitesh Khapra</a> and <a href="https://sites.google.com/site/indrajitb/home" target="_blank">Indrajit Bhattacharya</a> and also have been guided by my manager <a href="https://researcher.watson.ibm.com/researcher/view.php?person=in-kartsank" target="_blank">Karthik Sankaranarayanan</a>. Prior to joining IBM, I held positions like Applied Scientist at Microsoft Bing Ads (2013-2015) and SDE at Amazon.com (2010-2011).</span></p>
 
-<p>Prior to joining IBM, his work experience included positions like Applied Scientist at Microsoft Bing Ads (2013-2015) and SDE at Amazon.com (2010-2011).</p>
+<p><span style="font-size: 0.9em">My interests lie in applications of machine learning/deep learning in natural language processing. I have been working in the natural language generation (NLG) project in IBM for the last two years and have published papers in top conferences like NIPS, ACL and NAACL-HLT. At IBM, I also contributed towards the <a href="https://www.research.ibm.com/artificial-intelligence/project-debater/index.html" target="_blank">IBM Project Debater</a>, which received wide news coverage worldwide recently because of a LIVE machine vs human debate (More in <a href="#posts">News</a>). I had also been intrigued by different aspects of human creativity and the possibility of replicating them in content generation systems.</span></p>
 
-<p><strong><span style="background-color:blue"><span style="color:white;; font-size: 0.75em">Upcoming Presentation</span></span></strong>: I will be presenting our work &ldquo;<em>On Controllable Sparse Alternatives to Softmax</em>&rdquo; in <a href="https://nips.cc/Conferences/2018/Schedule?showParentSession=12782" target="_blank">Thu Poster Session B</a> at <strong>NeurIPS/NIPS 2018</strong>, Montreal, Canada on 6th Dec, 2018.</p>
+<p><strong><span style="background-color:blue"><span style="color:white; font-size: 0.75em">Upcoming Presentation</span></span></strong>: I will be presenting our work &ldquo;<em>On Controllable Sparse Alternatives to Softmax</em>&rdquo; in <a href="https://nips.cc/Conferences/2018/Schedule?showParentSession=12782" target="_blank">Thu Poster Session B</a> at <strong>NeurIPS/NIPS 2018</strong>, Montreal, Canada on 6th Dec, 2018.</p>
 
 
     <div class="row">
@@ -1043,7 +1043,18 @@ Details on contributions: <a href="https://www.research.ibm.com/artificial-intel
 
 
 
-    
+    <p><ul>
+<li><strong>Controllable Sparse Alternatives to Softmax</strong>: We study techniques for converting a real vector to a probability distribution. We propose a unified framework which leads to understanding of existing approaches incl. softmax. Our framework also enables providing explicit controls to vary sparsity of the output distribution. Additionally, our proposed convex loss functions enable achievement of greater sparsity for multi-label classification task. We also show encouraging results for sparse attention in NLG tasks. <a href="https://arxiv.org/abs/1810.11975" target="_blank">NIPS &lsquo;18 Paper</a>.</li>
+<li><strong>Structured Data to Text Generation</strong>: This can be categorized into two paradigms - (a) Supervised End-to-end attention based seq2seq approaches for summarization of tabular data (<a href="http://aclweb.org/anthology/N18-1139" target="_blank">NAACL &lsquo;18 Paper 1</a>, <a href="http://aclweb.org/anthology/N18-2098" target="_blank">Paper 2</a>), and (b) Unsupervised coherent description generation from tabular data, in a way that is scalable and adaptable to newer domains and does not require parallel data <a href="https://arxiv.org/abs/1810.02889" target="_blank">arXiv</a>.<br /></li>
+<li><strong>Query-based Abstractive Summarization</strong>: In this work, we propose a model for the query-based summarization task based on the encode-attend-decode paradigm with two key additions (i) a query attention model (in addition to document attention model) which learns to focus on different portions of the query at different time steps (instead of using a static representation for the query) and (ii) a new diversity based attention model which aims to alleviate the problem of repeating phrases in the summary. <a href="http://aclweb.org/anthology/P17-1098" target="_blank">ACL &lsquo;17 Paper</a>.</li>
+<li><strong>Sequence classification used for claim and evidence detection in argument mining</strong>: We empirically evaluated multiple RNN and CNN architectures for bi-sequence classification and applied them for context-based claim and evidence detection. <a href="http://aclweb.org/anthology/C/C16/C16-1260.pdf" target="_blank">COLING &lsquo;16 Paper</a>.</li>
+<li><strong>Punctuation and Case prediction for ASR output</strong>: Automatic Speech Recognition (ASR) engines are good at recognizing words from human speech; however, the output from ASR needs to be formatted with punctuation and case to be useful for downstream NLP tasks. In this work, we employed a multi-task approach to simultaneously produce punctuation and casing labels for a stream of words. This solution enabled mining of claims and evidences from human debate recordings. <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1247.PDF" target="_blank">INTERSPEECH &lsquo;17 Paper</a>.</li>
+<li><strong>Story generation from incoherent descriptions</strong>: We proposed the new task of generating a coherent story from disconnected text snippets. For this, we implement an RNN based encoder-decoder solution to produce comprehensive coherent story. <a href="https://arxiv.org/abs/1707.05501" target="_blank">Paper</a>.</li>
+<li><strong>ML Framework for evaluating creativity</strong>: We identified important metrics for measuring creativity and proposed a regression-based learning framework for evaluating these metrics and combining them to produce a creativity score for an artifact. <a href="https://arxiv.org/abs/1707.05499" target="_blank">Paper</a>.</li>
+<li><strong>Gene Prioritization from Heterogeneous Data Sources</strong>: In this work, we use graph-based learning-to-rank methods to learn a ranking of genes from each individual data source represented as a graph, and then apply rank aggregation methods to aggregate these rankings into a single ranking over the genes. <a href="http://goo.gl/0EF95i" target="_blank">MS Thesis</a>.</li>
+<li><strong>Investigation of the incentive compatible scoring rules for prediction markets</strong>: We applied Prediction Markets in IISc Prediction League (to predict winners of DLF Indian Premier League 2012), an IISc-wide web application based on open-source Zocalo framework. <a href="http://goo.gl/zAESmp" target="_blank">Project Report</a>.</li>
+</ul>
+</p>
 
     
 
@@ -1092,12 +1103,12 @@ Details on contributions: <a href="https://www.research.ibm.com/artificial-intel
       
 
       
-      <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone" itemprop="telephone"><a href="tel:&#43;91-9480005065">&#43;91-9480005065</a></span>
-      </li>
-      
 
+      
+      <li>
+        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
+        <span><a href="skype:anirbanlaha?call">anirbanlaha</a></span>
+      </li>
       
 
       

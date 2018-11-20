@@ -36,8 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/about/</guid>
-      <description>Biography Anirban Laha is associated with the AI Tech group at IBM Research AI - India. He is working in applications of machine learning/deep learning in natural language processing and generation. Since joining IBM in 2015, he has been involved in mainly the following projects: (1) Natural Language Generation, (2) Machine Learning for Creativity, (3) IBM Debating Technologies.
-Prior to joining IBM, his work experience included positions like Applied Scientist at Microsoft Bing Ads (2013-2015) and SDE at Amazon.</description>
+      <description>Hello | Bonjour | Hola | Namaste I am currently associated with the AI Tech group at IBM Research AI - India. At IBM, I have been fortunate to be mentored by extremely learned and passionate researchers like Vikas Raykar, Mitesh Khapra and Indrajit Bhattacharya and also have been guided by my manager Karthik Sankaranarayanan. Prior to joining IBM, I held positions like Applied Scientist at Microsoft Bing Ads (2013-2015) and SDE at Amazon.</description>
     </item>
     
     <item>
@@ -112,7 +111,7 @@ Prior to joining IBM, his work experience included positions like Applied Scient
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/projects/</guid>
-      <description></description>
+      <description>Controllable Sparse Alternatives to Softmax: We study techniques for converting a real vector to a probability distribution. We propose a unified framework which leads to understanding of existing approaches incl. softmax. Our framework also enables providing explicit controls to vary sparsity of the output distribution. Additionally, our proposed convex loss functions enable achievement of greater sparsity for multi-label classification task. We also show encouraging results for sparse attention in NLG tasks.</description>
     </item>
     
     <item>
