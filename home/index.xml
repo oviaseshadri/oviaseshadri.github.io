@@ -88,21 +88,23 @@
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>https://anirbanlaha.github.io/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://anirbanlaha.github.io/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://anirbanlaha.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://anirbanlaha.github.io/home/talks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://anirbanlaha.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://anirbanlaha.github.io/home/talks_selected/</guid>
+      <description> [07 Mar, 2018] Generating Natural Language Descriptions from Structured Data. Venue: IBM Research-IISc Workshop on Knowledge and Learning organised at IISc. Details: Link
+ [20 Jan, 2018] Tutorial on Natural Language Processing and Generation. Venue: Technical Talk on the broader theme of ‘Cognitive Analytics and NLP’ as part of the annual science and cultural fest at IISc, Bangalore.
+  </description>
     </item>
     
     <item>
