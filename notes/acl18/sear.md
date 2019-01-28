@@ -1,6 +1,6 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models
 
-<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/>
-Hello World! Paul Henderson (born January 28, 1943) is a former professional ice hockey player from Canada. A left winger, he played thirteen seasons in the National Hockey League for the Detroit Red Wings, Toronto Maple Leafs and Atlanta Flames and five in the World Hockey Association for the Toronto Toros and Birmingham Bulls. Appearing in over 1,000 games, he scored 376 goals and 758 points. He led Team Canada to victory at the 1972 Summit Series against the Soviet Union, scoring the game-winning goal in the sixth, seventh and eighth games, the last of which was voted the "sports moment of the century" by The Canadian Press. The series, played at the height of the Cold War, was viewed as a battle for hockey supremacy. Henderson played in two All-Star Games and has twice been inducted into Canada's Sports Hall of Fame (individually and as a member of the 1972 national team). He was inducted into the International Ice Hockey Federation Hall of Fame in 2013.
+<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> 
+## Main Contributions
 
-
+<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-mc.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-vqa.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sent.png" alt="drawing" width="280"/>
