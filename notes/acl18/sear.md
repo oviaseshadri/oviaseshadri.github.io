@@ -1,4 +1,4 @@
-# Semantically Equivalent Adversarial Rules for Debugging NLP Models
+# Semantically Equivalent Adversarial Rules for Debugging NLP Models (Ribeiro et al.)
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> 
 
