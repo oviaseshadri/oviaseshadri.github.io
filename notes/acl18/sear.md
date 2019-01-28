@@ -1,4 +1,6 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models
 
-![*Illustrative Image*](./img/notes/sear-main.png)
+<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="200"/>
+
+![*Illustrative Image*](https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png)
 
