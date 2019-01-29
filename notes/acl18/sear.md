@@ -1,5 +1,5 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models (Ribeiro et al.)
-
+[Paper Link](http://aclweb.org/anthology/P18-1079)
 Complex models for RC and VQA are prone to brittleness; different ways of phrasing the same sentence often cause the model to output different predictions. This is called *oversensitivity*. In another way, adding a new word can have no semantic impact at all (known as *overstability*). 
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> 
@@ -15,6 +15,10 @@ It is possible to fool the model by adversarially changing a single character (c
 Consider a black-box model <a href="https://www.codecogs.com/eqnedit.php?latex=$f$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f$" title="$f$" /></a> that takes a sentence <a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a> and produces <a href="https://www.codecogs.com/eqnedit.php?latex=$f(x)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f(x)$" title="$f(x)$" /></a>. A semantically equivalent adversary (SEA) is one that changes model prediction. SemEq(<a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a>,<a href="https://www.codecogs.com/eqnedit.php?latex=$x^'$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x^'$" title="$x^'$" /></a>) measures the semantic equivalence of its arguments (0 to 1). The following equation defines SEA:
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sea.png" alt="drawing" width="400"/>
+
+## Generating SEARs
+
+<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-gen.png" alt="drawing" width="400"/>
 
 ### Example SEARs in different problem settings
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-mc.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-vqa.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sent.png" alt="drawing" width="280"/>
