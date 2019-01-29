@@ -25,6 +25,9 @@ To generate paraphrases, the approach by [1] is followed : A sentence <a href="h
 
 This algorithm says once SEAs has been generated for all instances, they are generalized into certain candidate rules. Like (*What color* -> *Which color*), (*What NOUN* -> *Which NOUN*) and (*WP color* -> *Which color*). Once the candidate rules are proposed, they are filtered based on thresholds on **semantic equivalence**. After the filtration step, a submodular optimization is performed to increase **coverage** of rules while avoiding **redundancy**.
 
+### Example rules
+<img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-rules.png" alt="drawing" width="600"/>
+
 ### Example SEARs in different problem settings
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-mc.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-vqa.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sent.png" alt="drawing" width="280"/>
 
