@@ -41,5 +41,12 @@ In Table 3, Surprisingly, many of its predictions change for perturbations that 
 
 3. *Fixing bugs using SEARs* Once impactful bugs are identified, a simple data augmentation procedure is used: applying SEARs to the training data, and retraining the model on the original training augmented with the generated examples.
 
+## Limitations and Future Work
+1. *Semantic scoring errors* : Paraphrasing is still an active area of research, and thus the proposed semantic scorer is sometimes incorrect in evaluating rules for semantic equivalence.
+
+2. *Paraphrasing* : Paraphrase models based on neural machine translation are biased towards maintaining the sentence structure, and thus do not produce certain adversaries which humans can produce.
+
+3. *Better bug fixing* : Developing more effective ways of leveraging the expert’s time to close the loop, and facilitating more interactive collaboration between humans and SEARs are exciting areas for future work.
+
 ## References
 1. Mirella Lapata, Rico Sennrich, and Jonathan Mallinson.2017. Paraphrasing revisited with neural machine translation. In EACL.
