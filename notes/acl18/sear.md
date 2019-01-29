@@ -1,6 +1,5 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models (Ribeiro et al.)
-[Paper Link](http://aclweb.org/anthology/P18-1079)
-[Code Link](https://github.com/marcotcr/sears)
+[Paper](http://aclweb.org/anthology/P18-1079) and [Code](https://github.com/marcotcr/sears)
 
 Complex models for RC and VQA are prone to brittleness; different ways of phrasing the same sentence often cause the model to output different predictions. This is called *oversensitivity*. In another way, adding a new word can have no semantic impact at all (known as *overstability*). 
 
