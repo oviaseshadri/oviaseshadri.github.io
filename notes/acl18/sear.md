@@ -1,5 +1,7 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models (Ribeiro et al.)
 [Paper Link](http://aclweb.org/anthology/P18-1079)
+[Code Link](https: //github.com/marcotcr/sears)
+
 Complex models for RC and VQA are prone to brittleness; different ways of phrasing the same sentence often cause the model to output different predictions. This is called *oversensitivity*. In another way, adding a new word can have no semantic impact at all (known as *overstability*). 
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> 
@@ -16,9 +18,29 @@ Consider a black-box model <a href="https://www.codecogs.com/eqnedit.php?latex=$
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sea.png" alt="drawing" width="400"/>
 
+To generate paraphrases, the approach by [1] is followed : A sentence <a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a> is translated into multiple pivot languages then back-translating back to the original language. The score for a particular paraphrase is computed by the heuristic above. 
+
 ## Generating SEARs
 
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-gen.png" alt="drawing" width="400"/>
 
+This algorithm says once SEAs has been generated for all instances, they are generalized into certain candidate rules. Like (*What color* -> *Which color*), (*What NOUN* -> *Which NOUN*) and (*WP color* -> *Which color*). Once the candidate rules are proposed, they are filtered based on thresholds on **semantic equivalence**. After the filtration step, a submodular optimization is performed to increase **coverage** of rules while avoiding **redundancy**.
+
 ### Example SEARs in different problem settings
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-mc.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-vqa.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sent.png" alt="drawing" width="280"/>
+
+In Table 1, The rule (*What VBZ* → *What’s*) shows that the model is fragile with respect to contractions (flips 2% of all correctly predicted instances on the validation data). The second rule uncovers a bug with respect to simple question rephrasing, while the third and fourth rules show that the model is not robust to a more conversational style of asking questions.
+
+In Table 2, Changes induced by these four rules flip more than 10% of the predictions in the validation data, which is of critical concern if the model is being evaluated for production.
+
+In Table 3, Surprisingly, many of its predictions change for perturbations that have no sentiment connotations, even in the presence of polarity-laden words.
+
+## Observations
+1. *Can humans generate good adversaries?* Humans generate paraphrases differently than our method: the average character edit distance of SEAs is 6.2 for VQA and 9.0 for Sentiment, while for humans it is 18.1 and 43.3, respectively. Also humans can generate adversaries that: (1) make use of the visual context in VQA, which SEAR method does not, and (2) significantly change the sentence structure, unlike the SEAR method.
+
+2. *Can experts find high-impact bugs?* Discovering these bugs is hard for humans (even experts) without SEARs: not only do they need to imagine rules that maintain semantic equivalence, they must also discover the model’s weak spots. 
+
+3. *Fixing bugs using SEARs* Once impactful bugs are identified, a simple data augmentation procedure is used: applying SEARs to the training data, and retraining the model on the original training augmented with the generated examples.
+
+## References
+1. Mirella Lapata, Rico Sennrich, and Jonathan Mallinson.2017. Paraphrasing revisited with neural machine translation. In EACL.
