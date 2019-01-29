@@ -1,6 +1,14 @@
 # Semantically Equivalent Adversarial Rules for Debugging NLP Models (Ribeiro et al.)
 
+Complex models for RC and VQA are prone to brittleness; different ways of phrasing the same sentence often cause the model to output different predictions. This is called *oversensitivity*. In another way, adding a new word can have no semantic impact at all (known as *overstability*). 
+
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-main.png" alt="drawing" width="400"/> 
+It is possible to fool the model by adversarially changing a single character (c), but at the cost of making the question nonsensical. A **Semantically Equivalent Adversary** (d) results in an incorrect answer while preserving semantics.
+
+1. Inspired by adversarial examples for images, they introduce semantically equivalent adversaries (SEAs) – text inputs that are perturbed in semantics-preserving ways, but induce changes in a black box model’s predictions. These are representative of real world scenarios compared to malicious attacks like misspellings, scrambling, removing words, etc.
+2. Derivation of some semantics-preserving rules - semantically equivalent adversarial rules (SEARs), which are more globally applicable rather than perturbations to individual instances.
+3. SEAs and SEARs, designed to unveil local and global oversensitivity bugs in NLP models.
+4. Paraphrase generation techniques are used for to generate SEAs (model-agnostic). Next SEAs are generalized into semantically equivalent rules. 
 
 ## Main Contributions
 
