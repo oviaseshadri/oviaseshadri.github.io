@@ -38,7 +38,7 @@ In Table 2, Changes induced by these four rules flip more than 10% of the predic
 In Table 3, Surprisingly, many of its predictions change for perturbations that have no sentiment connotations, even in the presence of polarity-laden words.
 
 ## Observations
-1. *Can humans generate good adversaries?* Humans generate paraphrases differently than our method: the average character edit distance of SEAs is 6.2 for VQA and 9.0 for Sentiment, while for humans it is 18.1 and 43.3, respectively. Also humans can generate adversaries that: (1) make use of the visual context in VQA, which SEAR method does not, and (2) significantly change the sentence structure, unlike the SEAR method.
+1. *Can humans generate good adversaries?* Humans generate paraphrases differently than this method: the average character edit distance of SEAs is 6.2 for VQA and 9.0 for Sentiment, while for humans it is 18.1 and 43.3, respectively. Also humans can generate adversaries that: (1) make use of the visual context in VQA, which SEAR method does not, and (2) significantly change the sentence structure, unlike the SEAR method.
 
 2. *Can experts find high-impact bugs?* Discovering these bugs is hard for humans (even experts) without SEARs: not only do they need to imagine rules that maintain semantic equivalence, they must also discover the model’s weak spots. 
 
