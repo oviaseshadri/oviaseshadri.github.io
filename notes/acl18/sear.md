@@ -11,7 +11,8 @@ It is possible to fool the model by adversarially changing a single character (c
 3. SEAs and SEARs, designed to unveil local and global oversensitivity bugs in NLP models.
 4. Paraphrase generation techniques are used for to generate SEAs (model-agnostic). Next SEAs are generalized into semantically equivalent rules (SEARs). 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=$E&space;=&space;mc^2$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$E&space;=&space;mc^2$" title="$E = mc^2$" /></a>
+## Definition
+Consider a black-box model <a href="https://www.codecogs.com/eqnedit.php?latex=$f$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f$" title="$f$" /></a> that takes a sentence <a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a> and produces <a href="https://www.codecogs.com/eqnedit.php?latex=$f(x)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f(x)$" title="$f(x)$" /></a>
 
 ### Example SEARs in different problem settings
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-mc.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-vqa.png" alt="drawing" width="280"/> <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sent.png" alt="drawing" width="280"/>
