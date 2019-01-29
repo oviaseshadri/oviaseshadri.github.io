@@ -13,6 +13,7 @@ It is possible to fool the model by adversarially changing a single character (c
 
 ## Definition
 Consider a black-box model <a href="https://www.codecogs.com/eqnedit.php?latex=$f$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f$" title="$f$" /></a> that takes a sentence <a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a> and produces <a href="https://www.codecogs.com/eqnedit.php?latex=$f(x)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$f(x)$" title="$f(x)$" /></a>. A semantically equivalent adversary (SEA) is one that changes model prediction. SemEq(<a href="https://www.codecogs.com/eqnedit.php?latex=$x$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x$" title="$x$" /></a>,<a href="https://www.codecogs.com/eqnedit.php?latex=$x^'$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x^'$" title="$x^'$" /></a>) measures the semantic equivalence of its arguments (0 to 1). The following equation defines SEA:
+
 <img src="https://github.com/anirbanl/anirbanl.github.io/blob/master/img/notes/sear-sea.png" alt="drawing" width="400"/>
 
 ### Example SEARs in different problem settings
