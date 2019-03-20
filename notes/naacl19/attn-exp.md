@@ -11,4 +11,6 @@ Assuming attention provides an explanation for model predictions, we might expec
 
 (ii) Alternative (or counterfactual) attention weight configurations ought to yield corresponding changes in prediction (and if they do not then are equally plausible as explanations). 
 
-The authors show that NEITHER property is consistently observed by standard attention mechanisms in the context of text classification, question answering (QA), and Natural Language Inference (NLI) tasks.
+The authors show that NEITHER property is consistently observed by standard attention mechanisms in the context of *text classification*, *question answering (QA)*, and *Natural Language Inference (NLI)* tasks.
+
+**Shocking** It is very often possible to construct ‘adversarial’ attention distributions that yield effectively equivalent predictions as when using the originally induced attention weights, despite attending to entirely different input features. Even more strikingly, randomly permuting attention weights often induces only minimal changes in output.
