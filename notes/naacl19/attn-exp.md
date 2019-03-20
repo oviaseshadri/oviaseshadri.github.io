@@ -6,7 +6,9 @@
 Li et al. (2016) summarized this commonly held view in NLP: “Attention provides an important way to explain the workings of neural models".
 
 Assuming attention provides an explanation for model predictions, we might expect the following properties to hold. 
+
 (i) Attention weights should correlate with feature importance measures (e.g., gradient-based measures); 
+
 (ii) Alternative (or counterfactual) attention weight configurations ought to yield corresponding changes in prediction (and if they do not then are equally plausible as explanations). 
 
 The authors show that NEITHER property is consistently observed by standard attention mechanisms in the context of text classification, question answering (QA), and Natural Language Inference (NLI) tasks.
