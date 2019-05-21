@@ -1,6 +1,31 @@
 [
   {
     "authors": [
+      "*Sai Surya*",
+      "*Abhijit Mishra*",
+      "***Anirban Laha***",
+      "*Parag Jain*",
+      "*Karthik Sankaranarayanan*"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1558419048,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1558419048,
+    "objectID": "ee6716d0461938c2b0970e8fe1185684",
+    "permalink": "https://anirbanlaha.github.io/publication/acl-2019/",
+    "publishdate": "2019-05-21T11:40:48+05:30",
+    "relpermalink": "/publication/acl-2019/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Unsupervised Neural Text Simplification",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "***Anirban Laha***",
       "*Saneem Ahmed CG*",
       "*Priyanka Agrawal*",
