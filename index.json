@@ -1,6 +1,30 @@
 [
   {
     "authors": [
+      "[To Appear] ***Anirban Laha***",
+      "*Parag Jain*",
+      "*Abhijit Mishra*",
+      "*Karthik Sankaranarayanan*"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1563853443,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1563853443,
+    "objectID": "0c09f1f4d91654bd51d3967311758d2d",
+    "permalink": "https://anirbanlaha.github.io/publication/cl-2019/",
+    "publishdate": "2019-07-23T09:14:03+05:30",
+    "relpermalink": "/publication/cl-2019/",
+    "section": "publication",
+    "summary": "",
+    "tags": [],
+    "title": "Scalable Micro-planned Generation of Discourse from Structured Data",
+    "type": "publication"
+  },
+  {
+    "authors": [
       "*Sai Surya*",
       "*Abhijit Mishra*",
       "***Anirban Laha***",
