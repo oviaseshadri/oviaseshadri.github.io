@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Anirban Laha</title>
-    <link>https://anirbanlaha.github.io/publication_types/7/</link>
+    <link>https://anirbanl.github.io/publication_types/7/</link>
     <description>Recent content in 7 on Anirban Laha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 15 Aug 2017 00:01:02 +0530</lastBuildDate>
     
-	<atom:link href="https://anirbanlaha.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anirbanl.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Story Generation from Sequence of Independent Short Descriptions</title>
-      <link>https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/</link>
+      <link>https://anirbanl.github.io/publication/ml4creativity-2017-gen/</link>
       <pubDate>Tue, 15 Aug 2017 00:01:02 +0530</pubDate>
       
-      <guid>https://anirbanlaha.github.io/publication/ml4creativity-2017-gen/</guid>
+      <guid>https://anirbanl.github.io/publication/ml4creativity-2017-gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Machine Learning Approach for Evaluating Creative Artifacts</title>
-      <link>https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/</link>
+      <link>https://anirbanl.github.io/publication/ml4creativity-2017-metrices/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:52 +0530</pubDate>
       
-      <guid>https://anirbanlaha.github.io/publication/ml4creativity-2017-metrices/</guid>
+      <guid>https://anirbanl.github.io/publication/ml4creativity-2017-metrices/</guid>
       <description></description>
     </item>
     
